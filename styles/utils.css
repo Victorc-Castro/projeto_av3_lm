@@ -1,3 +1,18 @@
 .hidden {
   display: none !important;
 }
+
+@media (width < 80em) {
+  .container {
+    --max-width: 375px;
+    width: min(var(--max-width), 100% - var(--px-base) * 2);
+    margin-inline: auto;
+  }
+
+  #title {
+    display: flex;
+    flex-wrap: wrap;
+    width: 18rem;
+    text-align: center;
+  }
+}

@@ -33,7 +33,4 @@ body {
   /* Button Fonts */
   --ff-rf: 'Roboto Flex', sans-serif, system-ui;
   --label-medium: 700 1.25rem/150% var(--ff-rf);
-
-  /* Width */
-  --px-base: 1rem;
 }

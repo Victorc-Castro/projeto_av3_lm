@@ -41,7 +41,7 @@ function calculateBinary() {
 
   const selectedOp = operations.value
 
-  // Vairáel para definir cálculo dos valores.
+  // Variável para definir cálculo dos valores.
   let decResult
 
   // Estrutura para definir a operação que será feita dependendo da escolha do usuário. 

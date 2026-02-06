@@ -2,11 +2,11 @@
  <img src="./assets/image.png" alt="Foto de capa" width="100%" />
 </p>    
 
-## 💻 Projeto
-Esse é um projeto Web responsivo feito com o intuito aperfeiçoar conhecimentos sobre JavaScript, aplicando lógica de programação para fazer uma calculadora de valores binários.
+## 💻 Project
+A responsive web application designed to practice JavaScript fundamentals and programming logic through the development of a binary value calculator.
 
 ## 👩‍💻 Tecnologias
-Esse projeto foi desenvolvido usando as seguintes tecnologias:
+This project was developed using the following technologies:
 
 - HTML
 - CSS
